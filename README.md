@@ -1,6 +1,6 @@
 ## Hello, I'm Tyne! 👋
 
-3rd Year BSIT Student from 🇵🇭 focused on *Database Management & Information Systems*
+3rd Year BSIT Student at **USTP CDO** focused on *Database Management & Information Systems* 👩‍💻
 
 ---
 
