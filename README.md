@@ -4,30 +4,32 @@
 
 ---
 
-![TheFnafMovieGIF](https://github.com/user-attachments/assets/c46c9438-c49c-4452-b360-7865c3450532)  ![HarryPotterHarryPotterCharactersGIF](https://github.com/user-attachments/assets/5f8ad3ef-554a-4563-894c-9b7665c50086)  ![CatShockedGIF](https://github.com/user-attachments/assets/821087c3-13d6-4763-a820-e627c8e7849a)
-
-
-
-
+![TheFnafMovieGIF](https://github.com/user-attachments/assets/c46c9438-c49c-4452-b360-7865c3450532)  ![HarryPotterHarryPotterCharactersGIF](https://github.com/user-attachments/assets/5f8ad3ef-554a-4563-894c-9b7665c50086)
 
 ---
 
 ### 🌻 About Me
 
-- A tech and art enthusiast blending creativity with logic 🎨🧠  
+- A tech and art enthusiast blending creativity with logic
 - Currently exploring **project management**, **full-stack dev**, and **technical writing**  
-- In my free time, I either draw or write journals  
-- I am too chronically online that I speak fluent meme 🐸  
+- In my free time, I either draw, write journals, or consume pop culture and fan content
+- I am too chronically online that I speak fluent meme
 
 ---
 
 ### 💡 Interests
 
-- 🌐 Tech + Business synergy  
-- ✍️ Creative solution ideation  
-- 🎨 UI/UX and graphic design  
-- 🧪 Exploring new skills  
-- 🧠 Self-development & learning  
+![Tech + Business](https://img.shields.io/badge/🌐%20Tech%20+%20Business%20synergy-blueviolet?style=flat)
+![Creative Solutions](https://img.shields.io/badge/✍️%20Creative%20solution%20ideation-orange?style=flat)
+![UI/UX & Design](https://img.shields.io/badge/🎨%20UI%2FUX%20&%20Graphic%20Design-brightgreen?style=flat)
+![Exploring Skills](https://img.shields.io/badge/🧪%20Exploring%20new%20skills-ff69b4?style=flat)
+![Self-Development](https://img.shields.io/badge/🧠%20Self--development%20&%20Learning-009688?style=flat)
+![Cats](https://img.shields.io/badge/😺%20Cats-f5c2e7?style=flat)
+![FNAF](https://img.shields.io/badge/🐻%20FNAF-brown?style=flat)
+![Harry Potter](https://img.shields.io/badge/⚡%20Harry%20Potter-gold?style=flat)
+![Pop Culture](https://img.shields.io/badge/✨%20Pop%20Culture-hotpink?style=flat)
+![Jazz](https://img.shields.io/badge/🎷%20Jazz-indigo?style=flat)
+
 
 ---
 
