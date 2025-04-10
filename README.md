@@ -42,6 +42,6 @@
 
 ### 📊🏆 Stats & Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmosqueda&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmosqueda&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmosqueda&show_icons=true&theme=radical)](https://github.com/cmosqueda/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmosqueda&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cmosqueda&theme=onestar&no-bg=true&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cmosqueda&theme=radical)](https://github.com/cmosqueda/github-profile-trophy)
