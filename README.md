@@ -4,7 +4,8 @@
 
 ---
 
-![CatComputerGIF](https://github.com/user-attachments/assets/5eeaac87-a125-4120-94c7-b78c21de4d91)  ![TheFnafMovieGIF](https://github.com/user-attachments/assets/c46c9438-c49c-4452-b360-7865c3450532)  ![Ash Baby GIF](https://media.tenor.com/SW4tCTepG9QAAAAM/ash-baby.gif)  ![Cat side eye](https://media4.giphy.com/media/wr7oA0rSjnWuiLJOY5/200w.gif?cid=6c09b952dcbcoahgqvrdr6nq7x4r1z41lto5d9s0a49sphf7&ep=v1_gifs_search&rid=200w.gif&ct=g)  ![HarryPotterHarryPotterCharactersGIF](https://github.com/user-attachments/assets/5f8ad3ef-554a-4563-894c-9b7665c50086)  
+![TheFnafMovieGIF](https://github.com/user-attachments/assets/c46c9438-c49c-4452-b360-7865c3450532)  ![HarryPotterHarryPotterCharactersGIF](https://github.com/user-attachments/assets/5f8ad3ef-554a-4563-894c-9b7665c50086)  ![CatShockedGIF](https://github.com/user-attachments/assets/821087c3-13d6-4763-a820-e627c8e7849a)
+
 
 
 
