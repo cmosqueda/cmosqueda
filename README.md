@@ -1,4 +1,4 @@
-## Hello, I'm Tyne! 👋
+## Hello, I'm tyne! 👋
 
 3rd Year BSIT Student at **USTP CDO** focused on *Database Management & Information Systems* 👩‍💻
 
