@@ -7,9 +7,9 @@
 ### 🌻 About Me
 
 - A tech and art enthusiast blending creativity with logic
-- Currently exploring **project management**, **full-stack dev**, and **technical writing**  
+- Currently exploring **project management**, **full-stack dev**, **technical writing**, and **machine learning**
 - In my free time, I either draw, write journals, or consume pop culture and fan content
-- I am too chronically online that I speak fluent meme
+- Chronically online + caffeinated
 
 ---
 
