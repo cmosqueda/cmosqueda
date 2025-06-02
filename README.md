@@ -4,10 +4,6 @@
 
 ---
 
-![TheFnafMovieGIF](https://github.com/user-attachments/assets/c46c9438-c49c-4452-b360-7865c3450532)  ![HarryPotterHarryPotterCharactersGIF](https://github.com/user-attachments/assets/5f8ad3ef-554a-4563-894c-9b7665c50086)
-
----
-
 ### 🌻 About Me
 
 - A tech and art enthusiast blending creativity with logic
