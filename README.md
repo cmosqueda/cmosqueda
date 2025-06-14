@@ -1,15 +1,21 @@
 ## Hello, I'm tyne! 👋
 
-3rd Year BSIT Student at **USTP CDO** focused on *Database Management & Information Systems* 👩‍💻
+I'm currently studying BSIT at **USTP CDO** focused on *Database Management & Information Systems*
 
 ---
 
 ### 🌻 About Me
 
 - A tech and art enthusiast blending creativity with logic
-- Currently exploring **project management**, **full-stack dev**, **technical writing**, and **machine learning**
 - In my free time, I either draw, write journals, or consume pop culture and fan content
 - Chronically online + caffeinated
+
+---
+
+### 🤔 What am I currently working on?
+
+- I'm exploring machine learning, database design, REST APIs, react-based projects, and a bit of backend
+- Also learning best practices in development such as better codebase structure, modularization, and other core concepts
 
 ---
 
