@@ -1,4 +1,4 @@
-## Hello, I'm tyne! 👋
+## Hello, I'm Tyne! 👋
 
 I'm currently studying BSIT at **USTP CDO** focused on *Database Management & Information Systems*
 
@@ -12,10 +12,10 @@ I'm currently studying BSIT at **USTP CDO** focused on *Database Management & In
 
 ---
 
-### 🤔 What am I working on ATM?
+### 🤔 What am I currently working on?
 
-- I'm exploring machine learning, database design, REST APIs, react-based projects, and a bit of backend
-- Also learning best practices in development such as better codebase structure, modularization, and other core concepts
+- I'm exploring database design, REST APIs, react-based projects, and a bit of backend
+- Also learning best practices in development such as better codebase structure, modularity, and other core concepts
 
 ---
 
