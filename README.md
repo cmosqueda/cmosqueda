@@ -12,7 +12,7 @@ I'm currently studying BSIT at **USTP CDO** focused on *Database Management & In
 
 ---
 
-### 🤔 What am I currently working on?
+### 🤔 What am I working on ATM?
 
 - I'm exploring machine learning, database design, REST APIs, react-based projects, and a bit of backend
 - Also learning best practices in development such as better codebase structure, modularization, and other core concepts
