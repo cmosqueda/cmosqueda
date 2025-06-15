@@ -1,11 +1,8 @@
 ## Hello, I'm Tyne! 👋
 
-I'm currently studying BSIT at **USTP CDO** focused on *Database Management & Information Systems*
-
----
-
 ### 🌻 About Me
 
+- I'm currently studying BSIT at **USTP CDO** focused on *Database Management & Information Systems*
 - A tech and art enthusiast blending creativity with logic
 - In my free time, I either draw, write journals, or consume pop culture and fan content
 - Chronically online + caffeinated
