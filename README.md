@@ -5,7 +5,7 @@
 - In my free time, I either draw, write journals, or consume pop culture and fan content
 
 
-# 🤔 I'm working on...
+# 🤓 I'm working on...
 
 - Exploring database design, REST APIs, react-based projects, and a bit of backend
 - Learning best practices in development such as better codebase structure, modularity, and other core concepts
