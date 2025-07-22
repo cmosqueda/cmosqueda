@@ -10,13 +10,11 @@
 - I draw, write, and consume pop culture content in my idle time
 - I like FNaF, Harry Potter, and Kpop
 
-### 💬 Reach Me
+### 💬 Let's Talk!
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=plastic&labelColor=000000&logo=gmail&logoColor=white)](mailto:mosqueda.christinereisa04@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/christine.mosqueda.395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&labelColor=000000&logo=linkedin&logoColor=white)](https://linkedin.com/in/christine-mosqueda-ba202b333)
-
----
 
 ### 👩‍💻 Stacks
 
