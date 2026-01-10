@@ -2,21 +2,22 @@
 
 <img align="right" src="https://static.wikia.nocookie.net/five-nights-at-freddys-world-world/images/5/50/Bonnie.gif/revision/latest?cb=20160122223117">
 
-## 👋 Hi, I'm Tyne!
+# 👋 Hi, I'm Tyne!
 
-`A tech enthusiast and art hobbyist`
+`Tech enthusiast and art hobbyist.`
 
 - Studying BSIT at USTP-CDO
 - I draw, write, and consume pop culture content in my idle time
 - I like FNaF, Harry Potter, and Kpop
+- Currently learning fullstack (slow, painful process but i'm giving it a try for experience)
 
-### 💬 Let's Talk!
+## 💬 Let's Talk!
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=plastic&labelColor=000000&logo=gmail&logoColor=white)](mailto:mosqueda.christinereisa04@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=000000&logo=facebook&logoColor=white)](https://facebook.com/christine.mosqueda.395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&labelColor=000000&logo=linkedin&logoColor=white)](https://linkedin.com/in/christine-mosqueda-ba202b333)
 
-### 👩‍💻 Stacks
+### Dev Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -27,6 +28,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=plastic&logo=expo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
@@ -44,11 +46,17 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-99425b?style=plastic&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+
+### Design & Creatives
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
 ![Kittl](https://img.shields.io/badge/Kittl-6A4C93?style=plastic&logoColor=white)
 ![Infinite Painter](https://img.shields.io/badge/Infinite%20Painter-D72C2C?style=plastic&logoColor=white)
+
+### Others
+
 ![AppSheets](https://img.shields.io/badge/AppSheets-0052CC?style=plastic&logo=appsheet&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FF2D20?style=plastic&logo=miro&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
