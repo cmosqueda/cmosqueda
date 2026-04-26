@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tyne!
 
-`IT Practitioner | Quality Assurance Analyst | AI & ML Enthusiast`
+`Quality Assurance Analyst | AI & ML Enthusiast`
 
 I bridge the gap between technical execution and business value.
 
