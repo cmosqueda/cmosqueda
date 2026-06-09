@@ -4,16 +4,16 @@
 
 I bridge the gap between technical execution and business value.
 
-- 🎓 **Education:** BS in Information Technology at USTP-CDO with focus on Database Management and Information Systems
-- 🔍 **QA Expertise:** Experienced in manual E2E testing, developing testing suites, test case documentation, and functional validation for software platforms.
-- 🤖 **ML Interests:** ML Models, Model evaluation (CNN, BiLSTM, RNN), Natural Language Processing, and Data Analytics.
+- **Education:** BS in Information Technology at USTP-CDO with focus on Database Management and Information Systems
+- **QA Expertise:** Experienced in manual E2E testing, automated testing, developing testing suites, test case documentation, and functional validation for software platforms.
+- **ML Interests:** ML Models, Model evaluation (CNN, BiLSTM, RNN), Natural Language Processing, and Data Analytics.
 - **Others:** Creatives, layout design, social media marketing
 
 ---
 
 ### 🧪 Specializations
 
-| **Machine Learning & Data**                 | **Quality Assurance & Ops**          |
+| **Machine Learning & Data**                 | **Quality Assurance**                |
 | :------------------------------------------ | :----------------------------------- |
 | • Model Training & Evaluation (CNN, BERT)   | • Manual End-to-End (E2E) Testing    |
 | • Data Acquisition & Web Scraping           | • Systematic Test Case Documentation |
@@ -27,6 +27,7 @@ I bridge the gap between technical execution and business value.
 #### **Testing & Productivity**
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45BA4B?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
