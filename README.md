@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Hi, I am Tine.</h1>
+    <h1>Hi, I am Tyne.</h1>
     <strong><code>Software QA Analyst | AI & ML Enthusiast</code></strong>
 </div>
 
