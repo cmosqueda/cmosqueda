@@ -1,6 +1,6 @@
 <div align='center'>
     <h1>Hi, I am Tyne.</h1>
-    <strong><code>Software QA Analyst | AI & ML Enthusiast</code></strong>
+    <h3><code>Software QA Analyst | AI & ML Enthusiast</code></h3>
 </div>
 
 ## profile.log
@@ -11,7 +11,7 @@ Role: Software QA Analyst
 ```
 
 <details>
-<summary><code>Personal_Info</code></summary>
+<summary><strong><code>Personal_Info</code></strong></summary>
 
 ```ini
 [INFO] Education: BSIT at USTP-CDO, PHL
@@ -24,7 +24,7 @@ Role: Software QA Analyst
 
 <details>
 
-<summary><code>Tools_Used</code></summary>
+<summary><strong><code>Tools_Used</code></strong></summary>
 
 ```Diff
 + Testing
