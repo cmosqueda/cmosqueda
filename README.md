@@ -1,57 +1,37 @@
 <div align='center'>
-    <h1>Hi, I am Tyne.</h1>
-    <h3><code>Software QA Analyst | AI & ML Enthusiast</code></h3>
+    <h1>System Analyst | AI & ML Enthusiast</h1>
 </div>
 
-## profile.log
-
-```yaml
-Name: Tyne Mosqueda
-Role: Software QA Analyst
+```sh
+C:\Users\tyne>whoami
+Tine Mosqueda
 ```
 
-<details>
-<summary><strong><code>Personal_Info</code></strong></summary>
-
-```ini
-[INFO] Education: BSIT at USTP-CDO, PHL
-[INFO] QA_Expertise: Experienced in manual E2E testing, automated testing, developing testing suites, test case documentation, and functional validation for software platforms.
-[INFO] ML_Interests: ML Models, Model evaluation (CNN, BiLSTM, RNN), Natural Language Processing, and Data Analytics.
-[INFO] Others: Creatives, layout design, social media marketing
-```
-
-</details>
-
-<details>
-
-<summary><strong><code>Tools_Used</code></strong></summary>
-
-```Diff
-+ Testing
-    └─ Playwright
-    └─ Jest
-    └─ Postman
-+ Documentation
-    └─ Notion
-    └─ Markdown
-+ Data_Analysis
-    └─ Jupyter
-    └─ MySQL
-    └─ Microsoft Excel
-    └─ Google Sheets
-+ Automation_Environment
-    └─ Botpress
-    └─ Google Apps Script
-+ Programming_Languages
-    └─ Python
-    └─ TypeScript
-+ Design_Tools
-    └─ Canva
-    └─ Figma
-    └─ AppSheet
-```
-
-</details>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3><code>experience:</code></h3>
+      <ul>
+        <li>quality assurance &amp; software testing</li>
+        <li>automation &amp; agentic AI workflows</li>
+        <li>web development &amp; scripting</li>
+        <li>model training &amp; AI/ML research</li>
+        <li>systems analysis &amp; the SDLC</li>
+        <li>creative work</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3><code>interests:</code></h3>
+      <ul>
+        <li>reading</li>
+        <li>technology</li>
+        <li>art</li>
+        <li>anime</li>
+        <li>science</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## let's talk
 
