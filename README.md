@@ -14,7 +14,7 @@ I am a Product System Analyst at AdaptiveHub. I contribute mostly to EdTech solu
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
       <h3>experience:</h3>
       <ul>
         <li>system analysis &amp; agile framework</li>
@@ -26,7 +26,7 @@ I am a Product System Analyst at AdaptiveHub. I contribute mostly to EdTech solu
         <li>edtech solutions</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <h3>interests:</h3>
       <ul>
         <li>reading</li>
