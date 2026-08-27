@@ -5,6 +5,9 @@
 ```sh
 C:\Users\tyne>whoami
 Rocket Puncher
+
+C:\Users\tyne>about Rocket Puncher
+I am a Product System Analyst at AdaptiveHub. I contribute mostly to EdTech solutions with AI and automation integrations through research, product development, and system analysis.
 ```
 
 <img align='right' src='https://media.tenor.com/yxl13URuGUoAAAAj/freddy-fazbear-plush-dancing.gif'>
@@ -14,14 +17,13 @@ Rocket Puncher
     <td width="60%" valign="top">
       <h3>experience:</h3>
       <ul>
-        <li>systems analysis &amp; agile framework</li>
+        <li>system analysis &amp; agile framework</li>
         <li>automation &amp; agentic AI workflows</li>
         <li>quality assurance &amp; software testing</li>
         <li>web development &amp; scripting</li>
-        <li>model training &amp; AI/ML research</li>
+        <li>model training, AI RAG, &amp; AI/ML research</li>
         <li>creative work</li>
         <li>edtech solutions</li>
-        <li>AI RAG</li>
       </ul>
     </td>
     <td width="40%" valign="top">
@@ -53,19 +55,38 @@ Rocket Puncher
 
 </div>
 
-## contribution grass
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/cmosqueda/cmosqueda/refs/heads/output/output.png" alt="3D GitHub contribution grass" />
 </p>
 
-<img
-  align="left"
-  hspace="20"
-  vspace="10"
-  src="https://media.tenor.com/KSq2iLliFKcAAAAM/sophia-katseye.gif"
-/>
-
-## let's talk
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/christine-mosqueda-ba202b333) [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mosqueda.christinereisa04@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/christine.mosqueda.395)
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img
+        src="https://media.tenor.com/KSq2iLliFKcAAAAM/sophia-katseye.gif"
+        alt="Sophia dancing"
+      />
+    </td>
+    <td width="55%" align="center" valign="middle">
+      <h2>let's talk!</h2>
+      <a href="https://linkedin.com/in/christine-mosqueda-ba202b333">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+          alt="Connect on LinkedIn"
+        />
+      </a>
+      <a href="mailto:mosqueda.christinereisa04@gmail.com">
+        <img
+          src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"
+          alt="Send me an email"
+        />
+      </a>
+      <a href="https://facebook.com/christine.mosqueda.395">
+        <img
+          src="https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&logo=facebook&logoColor=white"
+          alt="Chat on Facebook"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
