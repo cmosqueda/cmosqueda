@@ -3,10 +3,10 @@
 </div>
 
 ```sh
-C:\Users\tyne>whoami
+C:\Users\cmosqueda>whoami
 Rocket Puncher
 
-C:\Users\tyne>about Rocket Puncher
+C:\Users\cmosqueda>about Rocket Puncher
 I am a Product System Analyst at AdaptiveHub. I contribute mostly to EdTech solutions with AI and automation integrations through research, product development, and system analysis.
 ```
 
@@ -14,7 +14,7 @@ I am a Product System Analyst at AdaptiveHub. I contribute mostly to EdTech solu
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td valign="top">
       <h3>experience:</h3>
       <ul>
         <li>system analysis &amp; agile framework</li>
@@ -26,7 +26,7 @@ I am a Product System Analyst at AdaptiveHub. I contribute mostly to EdTech solu
         <li>edtech solutions</li>
       </ul>
     </td>
-    <td width="30%" valign="top">
+    <td valign="top">
       <h3>interests:</h3>
       <ul>
         <li>reading</li>
