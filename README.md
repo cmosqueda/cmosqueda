@@ -1,3 +1,5 @@
+![banner](./assets/banner.png)
+
 <div align='center'>
     <h1>System Analyst | AI & ML Enthusiast</h1>
     <p>I am a System Analyst based in the Philippines, continuously evolving and transitioning towards a more versatile scope beyond the traditional analyst role by taking on product design and active full-stack development. Most of my work centers on EdTech solutions featuring AI and automation integrations.</p>
