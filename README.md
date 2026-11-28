@@ -1,8 +1,8 @@
 ![banner](./assets/banner.png)
 
 <div align='center'>
-    <h1>System Analyst | AI & ML Enthusiast</h1>
-    <p>I am a System Analyst based in the Philippines, continuously evolving and transitioning towards a more versatile scope beyond the traditional analyst role by taking on product design and active full-stack development. Most of my work centers on EdTech solutions featuring AI and automation integrations.</p>
+    <h1>System Analyst</h1>
+    <p>I am <b>Rocket Puncher</b>, a System Analyst based in the Philippines with experience in product design and full-stack development. Most of my work centers on EdTech solutions and development of company & workforce internal tools, featuring AI and automation integrations.</p>
 </div>
 
 <img align='right' src='https://media.tenor.com/yxl13URuGUoAAAAj/freddy-fazbear-plush-dancing.gif'>
